@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Project Requirements](./assets/hero.png)
+# ![Django CRUD App Project - Project Requirements](./assets/hero.png)
 
 ## Overview
 
