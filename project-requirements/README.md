@@ -2,9 +2,9 @@
 
 ## Overview
 
-tktk Project Description
+For this project, you'll build a Django application with full CRUD. You get to decide what you want to build as long as it meets the technical requirements outlined below.
 
-***tktk You will work individually on this project***.
+***You will work individually on this project***.
 
 > ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially yours***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
 
@@ -16,45 +16,44 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your app must fulfill the below requirements.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
-- The project is deployed online so that the rest of the world can use it!
+- The app utilizes Django templates for rendering templates to users.
+- PostgreSQL is used as the database management system.
+- The app uses Django's built-in session-based authentication.
+- Authorization is implemented in the app. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
+- The app has at least one data entity in addition to the User model. At least one entity must have a relationship with the User model.
+- The app has full CRUD functionality.
+- The app is deployed online so that the rest of the world can use it!
 
 ### Code convention
 
 > ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
-- The application can be used without encountering errors.
 - The files in the application are organized following the conventions demonstrated in lectures.
-- The code in the application adheres to coding conventions covered in lessons, like using plural names for arrays.
-- The application does not contain dead code, commented-out sections, or console logs.
+- The code in the application adheres to coding conventions covered in lessons, like using plural names for lists.
+- The application does not contain dead code, commented-out sections, or prints.
+- The app runs without errors in both the terminal and the browser console.
 - The application is coded using proper indentation.
 
 ### UI/UX
 
 > ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
-- CSS Flexbox and/or Grid are used for page layout design.
-- Colors used on the site have appropriate contrast that meet the WCAG 2.0 level AA standard.
-- All images on the site have `alt` text.
+- The app exhibits a visual theme, like a consistent color palette and cohesive layout across pages.
+- The app is easily navigable by a first-time user. For example, navigation should be done through links instead of having to type in a URL to navigate around the app.
+- The app utilizes CSS Flexbox and/or Grid for page layout design.
+- Colors used in the app have appropriate contrast that meet the WCAG 2.0 level AA standard.
+- When editing an item, the form is pre-filled with that item's details.
+- Only the user who created a piece of data can see and interact with the UI for editing or deleting that data.
+- All images have `alt` text.
 - No text is placed on top of an image in a way that makes the text inaccessible.
+- All buttons are styled.
 
 ### Git and GitHub
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
 - You are shown as the only contributor to the project on GitHub.
-- The GitHub repository used for the project must be named appropriately. For example, names like book-binder or wellness-tracker are appropriate, whereas ga-project or men-stack-project are not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure it is public.***
+- The GitHub repository used for the project must be named appropriately. For example, names like book-binder or wellness-tracker are appropriate, whereas ga-project or django-project are not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure it is public.***
 - **Your repo should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one.
 - Commit messages should be descriptive of the work done in that commit.
 
@@ -64,9 +63,9 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 - **Screenshot/Logo**: A screenshot of your app or a logo.
 - **Your app's name**: Include a description of your app and its functionality. Background info about the app and why you built it is a nice touch.
-- **Getting started**: This section should include a link to your deployed app. It should also contain a link to your planning materials.
+- **Getting started**: Include a link to your deployed app and a link to your planning materials.
 - **Attributions**: This section should include links to any external resources (such as libraries or assets) you used to develop your application that require attribution. You can exclude this section if it does not apply to your application.
-- **Technologies used**: List the principal technologies used by your application, for example: JavaScript and any major frameworks or libraries.
+- **Technologies used**: List the principal technologies used by your application, for example: Python and any major frameworks or libraries.
 - **Next steps**: Planned future enhancements (stretch goals).
 
 ## Presentation requirements

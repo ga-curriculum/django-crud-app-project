@@ -1,9 +1,20 @@
 # ![Instructor Guide](../assets/instructor-guide.png)
 
+## What's included?
+
+There are two tracks you may take for this project depending on your preferences - A group version and and individual version.
+
+This is the repo for the individual version and includes:
+
+- Flask/React CRUD App Project Journey
+- Flask/React CRUD App Project Requirements
+- Flask/React CRUD App Project Details
+- Flask/React CRUD App Project Deliverables (students submit links to project planning materials, a front-end and back-end GitHub repo, and a deployed app throughout project week)
+- Flask/React CRUD App Project Feedback [in Canvas only]
+
 ## Customizing your project week
 
 While the project requirements should not be altered, you'll likely want to customize a few aspects of how you handle a project week.
-
 
 While all these pages can be edited, you'll likely want to make the most edits on the Django CRUD App Project Details page. Some sensible defaults are provided here, but you may want to customize some aspects of this document to match how you'd like to structure your project week for your students.
 
@@ -24,11 +35,19 @@ You may also want to make changes to the planning materials students submit and 
 
 When making edits, be mindful of overwhelming students with irrelevant or unhelpful details. These documents are already dense for learners, so try not to go overboard by adding too much information.
 
+### Customizing deliverables
+
+Some instructors may want to split the project deliverable into multiple parts so that each item be given its own due date. Individual deliverable pages exist in this content and do not need to be created. These can be found at:
+
+- [Project Planning Deliverable](../project-planning-deliverable/README.md)
+- [Project GitHub Repo Link Deliverable](../project-github-repo-link-deliverable/README.md)
+- [Project Deployed App Link Deliverable](../project-deployed-app-link-deliverable/README.md)
+
 ## Notes for maintainers
 
 Edits to project requirements are complex and should be made thoughtfully. When requirements change, alterations need to be made uniformly to the following documents/resources:
 
-- [tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1-wllnnJofVGIgOM2YoNkrG6qcfjw5uNHMt9ohFkisak/edit).
+- [Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1AmmzF3V9DVpeC641icvsYK73-kwrS0VSl5nakavLq4U/edit#gid=696206981).
 - [Project Requirements PDF](../project-requirements/assets/project-requirements.pdf) (built from the Project Requirements document in Google Sheets).
 - [Project Requirements document served in GitHub Pages](../project-requirements/README.md).
 - All Django CRUD App Project rubrics in Canvas.
