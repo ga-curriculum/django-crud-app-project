@@ -22,7 +22,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 - Authorization is implemented in the app. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
 - The app has at least one data entity in addition to the User model. At least one entity must have a relationship with the User model.
 - The app has full CRUD functionality.
-- The app is deployed online so that the rest of the world can use it!
+- The app is deployed online so that the rest of the world can use it.
 
 ### Code convention
 
@@ -73,6 +73,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them.
 
 - Present your project in front of the class on the scheduled presentation day.
+- The project you present is the project you were approved by your instructor to build.
 
 ## Evaluation
 

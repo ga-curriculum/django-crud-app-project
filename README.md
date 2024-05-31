@@ -2,6 +2,8 @@
 
 ## About
 
+***Instructors should see the Instructor Guide for more configuration details.***
+
 In this project, students will build an authenticated Django application with full CRUD on a PostgreSQL database.
 
 ## Prerequisites
