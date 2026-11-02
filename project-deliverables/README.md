@@ -54,7 +54,7 @@ After your project proposal has been approved, you'll need to set up a GitHub re
 
 ## Deployed app deliverable
 
-Follow the [Django Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/django-deployment/) to deploy your back-end Flask application.
+Follow the [Django Deployment guide](https://ga-curriculum.github.io/universal-resources/deployment/django-deployment/) to deploy your back-end Flask application.
 
 ## Submitting your deliverables
 
